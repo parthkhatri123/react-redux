@@ -20,7 +20,7 @@
 }
 
 .cart-wrapper {
-  height: 100px;
+  height: 130px;
   width: 500px;
   border: 1px solid #ccc;
 }
@@ -31,7 +31,8 @@
   border: 0px;
   padding: 10px;
   border-radius: 10px;
-  box-shadow: red 0px 1px 6px;
+  box-shadow: red 0px 1px 4px;
+  margin-top: 5px;
 }
 
 .item
