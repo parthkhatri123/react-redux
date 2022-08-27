@@ -7,6 +7,40 @@
   pointer-events: none;
 }
 
+.img-wrapper img {
+  width: 51px;
+}
+
+.addtocart img
+{
+  width: 100px;
+  position: absolute;
+  right: 1%;
+  top: 1%;
+}
+
+.cart-wrapper {
+  height: 100px;
+  width: 500px;
+  border: 1px solid #ccc;
+}
+
+.btn-wrapper button{
+  background-color: black;
+  color: white;
+  border: 0px;
+  padding: 10px;
+  border-radius: 10px;
+  box-shadow: red 0px 1px 6px;
+}
+
+.item
+{
+  float: left;
+  width: 120px;
+  padding: 20px;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
