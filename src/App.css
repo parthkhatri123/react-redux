@@ -53,6 +53,7 @@
   border-radius: 50px;
   width: 28px;
   height: 26px;
+  box-shadow: red 0px 1px 6px;
 }
 
 @media (prefers-reduced-motion: no-preference) {

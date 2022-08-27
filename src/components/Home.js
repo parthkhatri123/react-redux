@@ -5,11 +5,11 @@ function Home(props)
     return(
         <>
        
-        <h2>Home Component</h2>
-        <div className="addtocart ">
+         <h2>Home Component</h2>
+        {/*<div className="addtocart ">
             <span className="cartspan">{props.data.length}</span>
             <img src="https://t3.ftcdn.net/jpg/03/14/84/68/360_F_314846831_5jJsC7Us9obgwMjRDqFhs04dodzvnZvi.jpg" />
-        </div>
+        </div> */}
         <div className="cart-wrapper">
             <div className="img-wrapper item">
                 <img src="https://images.unsplash.com/photo-1580910051074-3eb694886505?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHBob25lfGVufDB8fDB8fA%3D%3D&w=1000&q=80" />
